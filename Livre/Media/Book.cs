@@ -12,7 +12,7 @@ namespace Livre.Media
         //                                  CHAMPS
         private string nom;
         private int id;
-        private string title;
+        private string title; 
 
         private string isbn;
         private int nbPage;
